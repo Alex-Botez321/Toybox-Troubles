@@ -1,0 +1,1 @@
+When Using the prefabs for player ALL camera prefabs should be added
