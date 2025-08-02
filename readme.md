@@ -12,6 +12,28 @@ The Toybox is held in the gritty and dark imagination of a sleeping child. As th
 
 The licensing we will be using for Toybox Troubles is Creative Commons, specifically CC BY-ND 4.0. This is for the main purposes of being able to use Third Party Assets within our product if necessary, and that Toybox Troubles cannot be copied or redistributed without proper Attribution and NoDerivatives. However, this license does disclaim all liabilities for damages caused from using Creative Commons. The legal code for CC BY-ND 4.0 can be found in LICENSE.md.
 
+## Credit ##
+Designers:
+
+Mimi Leonard - [https://www.linkedin.com/in/mimi-valentine-leonard](https://www.linkedin.com/in/mimi-valentine-leonard) <br>
+Alexis Casdagli - [https://www.linkedin.com/in/alexis-casdagli-aa079b339](https://www.linkedin.com/in/alexis-casdagli-aa079b339)
+
+Programmers:
+
+Alex Botez - [https://www.linkedin.com/in/alexandru-botez](https://alexbotez321.wixsite.com/alexandrubotez)<br>
+Daniil Sherry - [https://www.linkedin.com/in/daniil-sherry-7b76b1341](https://www.linkedin.com/in/daniil-sherry-7b76b1341)<br>
+
+Artists:
+
+Vaughan Montgomery (Environment Artist) - [https://www.linkedin.com/in/vaughan-montgomery-545a1a2a9](https://www.linkedin.com/in/vaughan-montgomery-545a1a2a9)<br>
+Lucy Savery (Concept Artist) - [https://www.linkedin.com/in/lucy-savery-51a914275](https://www.linkedin.com/in/lucy-savery-51a914275)<br>
+Jonah Nuttal (Concept Artist) - [https://www.artstation.com/jonahnuttall](https://www.artstation.com/jonahnuttall)<br>
+Cuban McCaw (Dev Artist) - [https://www.linkedin.com/in/cuban-mccaw-51b7701ba](https://www.linkedin.com/in/cuban-mccaw-51b7701ba)<br>
+
+Writer:
+
+Cameron Dickson - [https://www.linkedin.com/in/cameron-dickson-80a012339](https://www.linkedin.com/in/cameron-dickson-80a012339)
+
 ## Third Party Assets ##
 
 Hess, S. n.d. Tw Cen MT Condensed ExtraBold [Font]. Available at: https://www.freefontdownload.org/en/tw-cen-mt-condensed-extrabold.font#google_vignette [Accessed: 07/05/2024].
